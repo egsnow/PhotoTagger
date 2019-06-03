@@ -8,7 +8,7 @@ public enum ImaggaRouter: URLRequestConvertible {
 
 
   enum Constants {
-    static let baseURLPath = "https://api.imagga.com"
+    static let baseURLPath = "https://api.imagga.com/v1"
     static let authenticationToken = "Basic YWNjX2FmZmNlMzhiYzA5Y2Q4ZTo1NTkwYTQwZmMwYTQyNjI3ZWNjYjcwZGYxMThkZmIwMA=="
   }
   
